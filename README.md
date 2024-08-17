@@ -1,0 +1,2 @@
+# fitico
+clase de ejercicio
